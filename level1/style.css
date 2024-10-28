@@ -1,0 +1,29 @@
+h1{
+    background-color: red;
+    color:yellowgreen
+}
+h2{
+    color:yellowgreen
+
+}
+ .murari{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    border:5px solid yellow;
+    border-radius: 30%;
+    background-image: url('murari.png');
+    background-size: cover; 
+    background-position: center; 
+    margin: 10px  5px 10px 10px;
+    
+
+}
+#subhash{
+    border-radius: 50%;
+    background-color: yellowgreen;
+    border: 2px solid black;
+    height:100px;
+    width:100px;
+}
+
